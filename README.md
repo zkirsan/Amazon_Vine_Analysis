@@ -1,11 +1,8 @@
 # Amazon_Vine_Analysis
 
-Deliverable 3 Instructions
-For this part of the Challenge, you’ll write a report that summarizes the analysis you performed in Deliverable 2.
+## Overview of the analysis: 
 
-The report should contain the following:
-
-## Overview of the analysis: Explain the purpose of this analysis.
+There are approximately 50 datasets accessible in this project. Each one contains product reviews ranging from clothing to wireless devices. The goal of this project is to select one of these datasets and use PySpark to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Next, use PySpark, Pandas, or SQL to see if there is any bias toward positive Vine member reviews in your dataset. The analysis will then be summarised for Jennifer to submit to the SellBy stakeholders.
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
