@@ -22,7 +22,7 @@ The findings provide answers to the following questions:
 
 ## Summary: 
 
-As a result, when looking at non-Vine and Vine reviews, it illustrates that the percentage of both with 5-stars is the same, which is 46.99%. Furthermore, when I look at the percentage of paid reviews based on total data, I see that it is 0.68%. That gives us a real sample of paid data in the total data, which means the sample determines the bias in this dataset. 
+As a result, when looking at non-Vine and Vine reviews, it illustrates that the percentage of both with 5-stars is the same, which is 46.99%. Furthermore, when I look at the percentage of paid reviews based on total data, I see that it is 0.68%. That gives us a real sample of paid data in the total data, which means the scale of the sample determines the bias in this dataset. 
 
 <p align="center"><img src="https://github.com/zkirsan/Amazon_Vine_Analysis/blob/main/Resources/additional_analysis.PNG"></img></p>
 
